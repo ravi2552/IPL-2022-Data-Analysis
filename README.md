@@ -12,11 +12,11 @@ Number of Observations in Data set : 633
 Number of features : 8
 
 #### Features information :
--Index Number - Unique number
--Player Name - Name of the Player
--Base Price - Base Price of the Player
--Type - Type of the player
--COST IN ₹ (CR.) - Total Cost in Cr Indian Rupees
--Cost IN $ (000) - Total Cost in USD
--2021 Squad - Team of the Player in 2021
--Team - Team of the Player in 2022
+- Index Number - Unique number
+- Player Name - Name of the Player
+- Base Price - Base Price of the Player
+- Type - Type of the player
+- COST IN ₹ (CR.) - Total Cost in Cr Indian Rupees
+- Cost IN $ (000) - Total Cost in USD
+- 2021 Squad - Team of the Player in 2021
+- Team - Team of the Player in 2022
